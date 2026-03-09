@@ -1,3 +1,5 @@
+# after: https://gist.github.com/kwinkunks/104a5474acfbc32d7f415d1f143de443
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pylops
