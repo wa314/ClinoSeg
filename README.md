@@ -11,6 +11,9 @@ Clinoform identification plays a major role in sequence stratigraphy and applied
 ### Licence
 This package is released under the MIT licence.
 
+### Data
+Training data can be made available upon request.
+
 ### Citation
 
 
